@@ -1,0 +1,132 @@
+2020-02-24 16:14:18,803 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:14:57,470 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:17:31,958 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:23:03,241 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:24:25,583 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:25:56,705 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:30:09,018 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:30:13,422 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:31:51,532 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:31:54,106 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-02-24 16:39:22,023 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:52:47,642 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-02-24 16:53:06,195 - tools.report.log_tool - ERROR - 启动浏览器失败,请检查webdriver是否配置，或者webdriver版本是否和浏览器匹配
+2020-02-24 16:54:56,578 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 16:54:56,579 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:54:57,010 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-02-24 16:54:57,036 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="0b8f646edd44ee179958bad9df23a8cc", element="f2673153-e732-4ffc-be6a-fab81e821993")> 中输入： 手机 
+2020-02-24 16:55:15,233 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 16:55:15,234 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 16:55:26,216 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-02-24 16:55:26,238 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="e42aa71d2546491c165ce976f9d79fa9", element="8acf9d86-b0c9-4b1e-ad5d-28b5b14eb74f")> 中输入： 手机 
+2020-02-24 16:56:20,995 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 16:56:20,996 - tools.report.log_tool - INFO - 打开网址： http://ui.yansl.com/#/radio 
+2020-02-24 16:56:25,191 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='纯单选框']/../div/input[1] 
+2020-02-24 16:56:25,212 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="39fb271f6ea21a7eaadf859036205425", element="7e9938dc-5ae1-4cf1-8d23-9434536be458")> 
+2020-02-24 16:56:27,473 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='单选框2']/../div//label[1]//input 
+2020-02-24 16:56:27,491 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="39fb271f6ea21a7eaadf859036205425", element="5dd8f3df-477e-4b39-a716-e043a689290f")> 
+2020-02-24 16:56:29,762 - tools.report.log_tool - INFO - 定位元素 xpath=>//label[text()='单选框3']/../div//span[text()='广州'] 
+2020-02-24 16:56:29,785 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="39fb271f6ea21a7eaadf859036205425", element="4b95f535-843a-498d-9437-9fc0bfaae719")> 
+2020-02-24 17:04:46,574 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:04:46,576 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 17:04:48,913 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-02-24 17:04:48,933 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="401df0195a668dd3c1f8d5647e0cbb29", element="61d3e91d-cf33-45d4-80c6-576263920c41")> 中输入： 手机 
+2020-02-24 17:05:00,426 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:05:00,427 - tools.report.log_tool - INFO - 打开网址： http://www.baidu.com 
+2020-02-24 17:05:02,784 - tools.report.log_tool - INFO - 定位元素 //*[@id='kw'] 
+2020-02-24 17:05:02,802 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="849c68669baddce845bb735e4122ee0e", element="683da06a-ad0b-40da-b6bb-ae69ba468ee3")> 中输入： 手机 
+2020-02-24 17:20:04,522 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:20:04,523 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:20:10,547 - tools.report.log_tool - INFO - 定位元素 xpath=>//*[@ga-data=newyear-login] 
+2020-02-24 17:20:21,096 - tools.report.log_tool - ERROR - ('xpath', '//*[@ga-data=newyear-login]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-02-24 17:27:45,079 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:27:45,081 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:27:48,114 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class=btn btn-login]  
+2020-02-24 17:27:58,328 - tools.report.log_tool - ERROR - ('xpath', '//div[@class=btn btn-login]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-02-24 17:34:53,530 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:34:53,531 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:34:56,182 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class=gift-zone] 
+2020-02-24 17:35:06,709 - tools.report.log_tool - ERROR - ('xpath', '//div[@class=gift-zone]')定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2020-02-24 17:35:57,837 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:35:57,838 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:36:01,027 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:36:01,051 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="93be0328022d00bcac5a213fc5af0857", element="a8e2b873-a8c8-4f61-87d2-472ba23483cc")> 
+2020-02-24 17:36:03,320 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:38:22,655 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:38:22,656 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:38:25,687 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:38:25,710 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9a3e8b421975d4d6a98290962097be53", element="28b08d9f-477a-43af-87a7-60cc8b5703e0")> 
+2020-02-24 17:38:27,997 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:38:28,018 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9a3e8b421975d4d6a98290962097be53", element="24aabb23-e3b8-4277-b587-d3ec35149c69")> 中输入： 15035090142 
+2020-02-24 17:38:30,392 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:38:30,411 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9a3e8b421975d4d6a98290962097be53", element="9739f3d7-e9fa-47b1-a836-47c0c923b116")> 中输入： 123456 
+2020-02-24 17:38:32,726 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:38:32,745 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9a3e8b421975d4d6a98290962097be53", element="d8e0f7f1-1ca4-4a64-b6e4-3f13c0b9ba69")> 
+2020-02-24 17:38:35,026 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:38:35,043 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9a3e8b421975d4d6a98290962097be53", element="758729ac-51cd-41e9-90fe-567395bf3569")> 
+2020-02-24 17:39:45,594 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:39:45,595 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:39:48,940 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:39:48,962 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5302488c2cd3c1cd6b4ab5052aaa3312", element="4b93a85a-2f73-410d-bf23-a4eca5b693d1")> 
+2020-02-24 17:39:51,251 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:39:51,271 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="5302488c2cd3c1cd6b4ab5052aaa3312", element="6df84913-f7b2-460a-a955-fb39bea59703")> 中输入： 15035090142 
+2020-02-24 17:39:53,640 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:39:53,660 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="5302488c2cd3c1cd6b4ab5052aaa3312", element="93599757-b144-437c-9b98-71f769e218bf")> 中输入： 123456 
+2020-02-24 17:40:03,964 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:40:03,981 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5302488c2cd3c1cd6b4ab5052aaa3312", element="813b6280-1434-43b7-b8f8-8202a9e6bbff")> 
+2020-02-24 17:40:06,262 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:40:06,281 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5302488c2cd3c1cd6b4ab5052aaa3312", element="99a7790d-f311-4edd-a081-a7ef5b7dd6eb")> 
+2020-02-24 17:40:24,544 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:40:24,545 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:40:27,833 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:40:27,855 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c1a6ef7e4693feee7b7390c62752549d", element="fce1350f-71a0-4f8f-8950-e54fe5891323")> 
+2020-02-24 17:40:30,135 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:40:30,154 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c1a6ef7e4693feee7b7390c62752549d", element="f10a11e6-42d0-4a07-b883-f54a0138c046")> 中输入： 15035090142 
+2020-02-24 17:40:32,520 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:40:32,544 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c1a6ef7e4693feee7b7390c62752549d", element="ff4e52c3-cd35-44d0-908c-67f4d763281e")> 中输入： 123456 
+2020-02-24 17:40:34,856 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:40:34,877 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c1a6ef7e4693feee7b7390c62752549d", element="d143dd02-e936-40cc-a573-3fa8098f43c7")> 
+2020-02-24 17:40:45,148 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:40:45,166 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c1a6ef7e4693feee7b7390c62752549d", element="da21549a-fb9c-46cf-a566-c7cb807e6b95")> 
+2020-02-24 17:43:13,615 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:43:13,616 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:43:16,301 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:43:16,331 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="db923332-fb60-4e86-8e75-f1ccd149959f")> 
+2020-02-24 17:43:18,609 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:43:18,631 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="ebb07276-f508-42a0-82a2-9cbed6fe7f64")> 中输入： 15035090142 
+2020-02-24 17:43:20,993 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:43:21,015 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="c2fb4f44-4f6e-42bd-90f7-0a647cb650c1")> 中输入： 123456 
+2020-02-24 17:43:23,323 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:43:23,342 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="c1b1c072-01f8-4e93-8384-0b3dc4d09b44")> 
+2020-02-24 17:43:33,620 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-confirm'] 
+2020-02-24 17:43:33,639 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="592a45c2-a2df-48d7-8346-11bd2cd74ae1")> 
+2020-02-24 17:43:33,918 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:43:33,937 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d65475ec59adcdd0585774b147b6440e", element="f2a80f09-d24b-4bc6-98d4-c0a455cde56a")> 
+2020-02-24 17:44:00,936 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:44:00,937 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:44:03,602 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:44:03,624 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="c0607dab-8478-4150-a235-b614411ff87d")> 
+2020-02-24 17:44:05,917 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:44:05,939 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="8961192a-78fc-4e37-a933-dc1b4d258e4c")> 中输入： 15035090142 
+2020-02-24 17:44:08,250 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:44:08,271 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="6f1fb33e-1edd-4df7-a64b-34638452455e")> 中输入： 123456 
+2020-02-24 17:44:10,565 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:44:10,585 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="cfc13733-e568-4141-8b4f-99c6f1ed9a5f")> 
+2020-02-24 17:44:20,855 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-confirm'] 
+2020-02-24 17:44:20,875 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="4eeeb9b1-bcf9-4ebd-b312-4fb471781f56")> 
+2020-02-24 17:44:23,154 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:44:23,173 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c565d002b307cba03aeeec042e4446c3", element="483460c4-976c-4a55-9a4e-e512703e6632")> 
+2020-02-24 17:44:39,025 - tools.report.log_tool - INFO - -------测试开始，启动chrome浏览器成功------- 
+2020-02-24 17:44:39,025 - tools.report.log_tool - INFO - 打开网址： http://115.159.54.253:3002/eva 
+2020-02-24 17:44:41,655 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='btn btn-login'] 
+2020-02-24 17:44:41,676 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="b0a35baf-f103-4dc7-8ec1-5acfa667d3f6")> 
+2020-02-24 17:44:43,964 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[1] 
+2020-02-24 17:44:43,984 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="cc1ca238-d53b-4f1e-8bfa-e386442e78e4")> 中输入： 15035090142 
+2020-02-24 17:44:46,335 - tools.report.log_tool - INFO - 定位元素 xpath=>//input[2] 
+2020-02-24 17:44:46,356 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="35bf8f1a-994c-4cdf-bafc-ac0859b57ebe")> 中输入： 123456 
+2020-02-24 17:44:48,665 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-login']  
+2020-02-24 17:44:48,683 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="5c4b515b-fa24-4741-9d6e-be47cc2ae7da")> 
+2020-02-24 17:44:58,957 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='modal-login-btn-confirm'] 
+2020-02-24 17:44:58,975 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="3d061a11-3b0d-42ed-8868-ddaf5b66309a")> 
+2020-02-24 17:45:01,238 - tools.report.log_tool - INFO - 定位元素 xpath=>//div[@class='gift-zone'] 
+2020-02-24 17:45:01,257 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5e6427910f26b835898f8f719d0de9f6", element="2812b17d-ae4e-4f50-9003-c6c6ce990302")> 

@@ -1,0 +1,4 @@
+INFO     tools.report.log_tool:log_tool.py:34 -------测试开始，启动chrome浏览器成功-------
+INFO     tools.report.log_tool:log_tool.py:34 打开网址： http://www.baidu.com 
+INFO     tools.report.log_tool:log_tool.py:34 定位元素 //*[@id='kw'] 
+INFO     tools.report.log_tool:log_tool.py:34 <selenium.webdriver.remote.webelement.WebElement (session="ad6073199d8760de984db38c4bc5864b", element="16edc9f0-5e5d-44e8-bc10-573449c75102")> 中输入： 手机
