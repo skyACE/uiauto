@@ -10,7 +10,6 @@ How to use
     - git
 
 2.Usage
+
     请在terminal窗口输入下方命令：
     pip3 install gy-ui-tools
-   
-
