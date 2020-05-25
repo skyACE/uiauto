@@ -5,7 +5,7 @@ How to use
 
 1. Set up local environment
     dependencies
-    - python (3.7+) 
+    - python (3.7+)  https://www.jianshu.com/p/4977fb191f52
     - allure(2.4.1+)
     - git
 
