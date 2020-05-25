@@ -1,10 +1,10 @@
 # -*- coding:utf-8 -*-
 # 右键-run 运行下列代码
-from tool.init_project import *
+#from tool.init_project import *
 
 
 
 # -*- coding: utf-8 -*-
-# 请在terminal窗口输入下方命令：
+# 安装依赖包  请在terminal窗口输入下方命令：
 # pip3 install gy-ui-tools
 
