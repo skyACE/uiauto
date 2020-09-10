@@ -1,7 +1,8 @@
 import os
 
 DRIVER_PATH = os.path.join( os.path.dirname(__file__),"../chrome_driver/chromedriver.exe")
-
+# 谷歌无头浏览器
+DRIVER_PATHl = os.path.join( os.path.dirname(__file__),"../chrome_driver/chromedriver")
 GY_UI_URL = 'http://qa.yansl.com/#/home'
 
 GY_DB_MALL = {
