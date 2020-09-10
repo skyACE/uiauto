@@ -64,8 +64,14 @@ class BaseUI(object):
                 BaseUI.driver = webdriver.Opera()
             elif browser == "chrome_headless":
                 chrome_options = Options()
+             
+                 # # 静默模式
                 chrome_options.add_argument('--headless')
-                BaseUI.driver = webdriver.Chrome(DRIVER_PATH,options=chrome_options)
+                chrome_options.add_argument('--no-sandbox')
+                chrome_options.add_argument('--disable-gpu')
+                chrome_options.add_argument('--disable-dev-shm-usage')
+                chrome_options.add_argument("--window-size=1920,1050")  #专门应对无头浏览器中不能最大化屏幕的方案
+                BaseUI.driver = webdriver.Chrome(DRIVER_PATHl,options=chrome_options)
             elif browser == "chrome_debugger":
                 print("chrome_debugger模式")
                 chrome_options = Options()
